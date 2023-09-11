@@ -14,8 +14,8 @@
 
 - ![text take](https://github.com/khelsai01/tense-visitor-349/assets/119441119/3e2d4413-03ad-4db7-85cd-86e3770c26c6)
 - 📫 How to reach me:- khelsai@gmail.com
-- My Linkdin id is : https://www.linkedin.com/in/khelsai-rajwade-77a235258/
-- address: Surajpur (Chhattisgarh)
+- Linkedin: https://www.linkedin.com/in/khelsai-rajwade-77a235258/
+- Address: Surajpur (Chhattisgarh)
 - 👯 I’m looking to collaborate on ...
 
 
