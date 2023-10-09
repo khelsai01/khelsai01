@@ -1,6 +1,5 @@
-# 💫 About Me:
-I’m currently learning Full Stack Web development.<br> Ask me about I am currently learnling the full stack web development from masai school. I had learn HTML, CSS, Javascripts, Chakra UI , Basic ReactJS, Github and Figma design.<br>
-
+# 💫Hi Khelsai Rajwade 
+https://github.com/khelsai01#passionate-about-implementing-and-launching-new-projects-i-also-possess-the-ability-to-translate-business-requirements-into-technical-solutions-i-am-looking-to-start-my-career-as-a-web-developer-driven-by-technology
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khelsai-rajwade-77a235258/) 
