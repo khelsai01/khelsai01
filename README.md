@@ -1,6 +1,4 @@
-# 💫Hi Khelsai Rajwade 
-https://github.com/khelsai01#passionate-about-implementing-and-launching-new-projects-i-also-possess-the-ability-to-translate-business-requirements-into-technical-solutions-i-am-looking-to-start-my-career-as-a-web-developer-driven-by-technology
-
+<h3>I am a full stack Web developer with a specialisation in mern stack javascript html and css in enthusiastic about leveraging my knowledge to build impactful products and services that cater to peoples needs my goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the companys growth.</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khelsai-rajwade-77a235258/) 
 
