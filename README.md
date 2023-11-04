@@ -1,3 +1,11 @@
+<h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Paras Kamaliya <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
+  
+<p align="center">
+<a align="center" href="https://github.com/khelsai01"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer." /></a>
+
+<p align="center">
+<a align="center" href="https://github.com/khelsai01"></a>
+
 <h3>I am a full stack Web developer with a specialisation in mern stack javascript html and css in enthusiastic about leveraging my knowledge to build impactful products and services that cater to peoples needs my goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the companys growth.</h3>
 
 Portfolio : [https://khelsai01.github.io/](https://khelsai01.github.io/)
