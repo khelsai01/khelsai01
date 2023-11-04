@@ -12,7 +12,7 @@ I am a full stack Web developer with a specialisation in mern stack javascript h
 - 🌱 I'm constantly learning and exploring new things in Web Development.
 - 👯 I'm open to collaboration and always excited to connect with like-minded individuals.
 - 💬 Ask me about Web development.
--    Portfolio : [https://khelsai01.github.io/](https://khelsai01.github.io)
+-    Portfolio : [Portfolio](https://khelsai01.github.io)
 - 📫 You can reach me at [khelsai@gmail.com](mailto:khelsai@gmail.com)
 - 🌐 Socials: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/khelsai-rajwade-77a235258/).
 - ⚡ Fun fact: I am a Bachelor graduate in Civil Engineering.
