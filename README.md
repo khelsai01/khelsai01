@@ -16,7 +16,7 @@ I am a full stack Web developer with a specialisation in mern stack javascript h
 - 📫 You can reach me at [khelsai@gmail.com](mailto:khelsai@gmail.com)
 - 🌐 Socials: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/khelsai-rajwade-77a235258/).
 - ⚡ Fun fact: I am a Bachelor graduate in Civil Engineering.
-- 
+- 🌐 Address : Surajpur, Chhattisgarh.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khelsai01&icon=0&color=0)](https://visitcount.itsvg.in)
