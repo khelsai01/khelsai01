@@ -32,37 +32,7 @@ Here are some of the skills and technologies I'm proficient in:
 <br/>
 <br/>
 
-## 💻 Projects
-<h4> ArtSphere</h4>
-<p>This is a React website built on theme of Art gallery it consists basic functionality such as post art, comment on art, view arts by category, etc more focus is on UI the project contains Home page, Arts page, Upload Page, Edit Art Page, Register Page and Login Page.</p>
-<h5>Github link</h5>
 
-[https://github.com/harshdeepgill/festive-crayon-1023](https://github.com/harshdeepgill/festive-crayon-1023)
-<h5>Deployed link</h5>
-
-[https://festive-crayon-1023-one.vercel.app](https://festive-crayon-1023-one.vercel.app)
-
-<div>
-  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/4691bb1d-d8b7-481a-8b06-19daa4ea4f1c" />
-  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/7581bce4-a3ed-4338-a08b-17d14ee300b2" />
-  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/83c1767e-4c69-4efa-a73b-be3d5b572f47" />
-  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/d862bc41-4e5b-4ac4-be6a-a4ccd0782638" />
-</div>
-  
-  <br/>
-  <br/>
-
-<h4>Dream Destine</h4>
-<p>Dream Destine is a travel website, where we aim to transform your wanderlust into extraordinary experiences. We offer a comprehensive range of services, including meticulously crafted tour packages and hassle-free hotel bookings, ensuring that your journey is nothing short of unforgettable.</p>
-<h5>Github link</h5>
-
-[https://github.com/patil-sandhya/shocking-grade-9442](https://github.com/patil-sandhya/shocking-grade-9442)
-<h5>Deployed link</h5>
-
-[https://zippy-pastelito-9fbf71.netlify.app](https://zippy-pastelito-9fbf71.netlify.app/)
-
-  <br/>
-  <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khelsai01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
