@@ -18,8 +18,8 @@ I am Khelsai Rajwade a full stack Web developer with a specialisation in mern st
 - 💬 Ask me about Web development.
 -    Portfolio : [https://khelsai01.github.io](https://khelsai01.github.io)
 - 🌐 Socials:
--    [LinkedIn](https://www.linkedin.com/in/khelsai-rajwade-77a235258).
-- 📫 You can reach me at [khelsai@gmail.com](mailto:khelsai@gmail.com)
+- LinkedIn:- [https://www.linkedin.com/in/khelsai-rajwade-77a235258](https://www.linkedin.com/in/khelsai-rajwade-77a235258)
+- 📫 You can reach me at  [khelsai@gmail.com](mailto:khelsai@gmail.com)
 -   Mobile: +91 8224889418
 - 🌍 Address : **Surajpur**, **Chhattisgarh.**
 
@@ -41,6 +41,14 @@ Here are some of the skills and technologies I'm proficient in:
 <h5>Deployed link</h5>
 
 [https://festive-crayon-1023-one.vercel.app](https://festive-crayon-1023-one.vercel.app)
+
+<div>
+  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/4691bb1d-d8b7-481a-8b06-19daa4ea4f1c" />
+  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/7581bce4-a3ed-4338-a08b-17d14ee300b2" />
+  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/83c1767e-4c69-4efa-a73b-be3d5b572f47" />
+  <img src="https://github.com/khelsai01/khelsai01/assets/119441119/d862bc41-4e5b-4ac4-be6a-a4ccd0782638" />
+</div>
+  
   <br/>
   <br/>
 
@@ -52,6 +60,13 @@ Here are some of the skills and technologies I'm proficient in:
 <h5>Deployed link</h5>
 
 [https://zippy-pastelito-9fbf71.netlify.app](https://zippy-pastelito-9fbf71.netlify.app/)
+
+<div>
+  <img src="" />
+  <img src="" />
+  <img src="" />
+  <img src="" />
+</div>
   <br/>
   <br/>
 
@@ -76,6 +91,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a  href="https://linkedin.com/in/https://www.linkedin.com/in/khelsai-rajwade-77a235258/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="https://www.linkedin.com/in/khelsai-rajwade-77a235258/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto: khelsai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
