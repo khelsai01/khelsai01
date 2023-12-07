@@ -61,12 +61,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 [https://zippy-pastelito-9fbf71.netlify.app](https://zippy-pastelito-9fbf71.netlify.app/)
 
-<div>
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-</div>
   <br/>
   <br/>
 
