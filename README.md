@@ -10,9 +10,9 @@
 <p align="center">
 <a align="center" href="https://github.com/khelsai01"></a>
 <p/>
-I am Khelsai Rajwade a full stack Web developer with a specialisation in mern stack javascript html and css in enthusiastic about leveraging my knowledge to build impactful products and services that cater to peoples needs my goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the companys growth.
+I am Khelsai Rajwade a full stack Web developer specializing in MERN stack javascript HTML and CSS. I am enthusiastic about leveraging my knowledge to build impactful products and services that cater to people's needs my goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the company's growth.
 
-- 🔭 I'm currently working on Management based Project.
+- 🔭 I'm currently working on a Management based Project.
 - 🌱 I'm constantly learning and exploring new things in Web Development.
 - 👯 I'm open to collaboration and always excited to connect with like-minded individuals.
 - 💬 Ask me about Web development.
