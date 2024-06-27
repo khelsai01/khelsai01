@@ -18,7 +18,7 @@ I am Khelsai Rajwade a full stack Web developer specializing in MERN stack javas
 - 💬 Ask me about Web development.
 -    Portfolio : [https://khelsai01.github.io](https://khelsai01.github.io)
 - 🌐 Socials:
-- LinkedIn:- [https://www.linkedin.com/in/khelsai-rajwade-77a235258](https://www.linkedin.com/in/khelsai-rajwade-77a235258)
+- LinkedIn:- [https://www.linkedin.com/in/khelsai-rajwade-302303171](https://www.linkedin.com/in/khelsai-rajwade-302303171)
 - 📫 You can reach me at  [khelsai@gmail.com](mailto:khelsai@gmail.com)
 -   Mobile: +91 8224889418
 - 🌍 Address : **Surajpur**, **Chhattisgarh.**
@@ -55,6 +55,6 @@ Here are some of the skills and technologies I'm proficient in:
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/khelsai-rajwade-77a235258/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a  href="https://www.linkedin.com/in/khelsai-rajwade-302303171" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a  href="mailto: khelsai@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
