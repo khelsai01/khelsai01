@@ -19,7 +19,7 @@ I am Khelsai Rajwade a full stack Web developer specializing in MERN stack javas
 -    Portfolio : [https://khelsai01.github.io](https://khelsai01.github.io)
 - 🌐 Socials:
 - LinkedIn:- [https://www.linkedin.com/in/khelsai-rajwade-302303171](https://www.linkedin.com/in/khelsai-rajwade-302303171)
-- 📫 You can reach me at  [khelsai@gmail.com](mailto:khelsai@gmail.com)
+- 📫 You can reach me at  [khelsai@clinvvo.ai](mailto:khelsai@clinvvo.ai)
 - 🌍 Address : **Surajpur**, **Chhattisgarh.**
 
 ---
